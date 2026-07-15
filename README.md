@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # Wenxu Liu
 
 Undergraduate student at Nanchang University.
@@ -8,4 +6,3 @@ Undergraduate student at Nanchang University.
 Research interests include computer vision, AI-generated image detection, and deep learning.
 
 Email: 8007124106@email.ncu.edu.cn
--->
